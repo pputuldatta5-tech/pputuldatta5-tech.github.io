@@ -1,20 +1,20 @@
-PUTUL DATTA — GTM ENGINEERING PORTFOLIO
+PUTUL DATTA — PERSONAL PORTFOLIO WEBSITE
 
-Files:
-- index.html: website content
-- style.css: layout and design
-- script.js: mobile navigation and scroll reveal
-- assets/: project evidence screenshots
+This is a custom-coded, responsive website built with:
+- HTML (page structure)
+- CSS (visual design and responsive layout)
+- JavaScript (mobile navigation and subtle scroll reveals)
 
-PUBLISHING WITH GITHUB PAGES
-1. Open the repository: pputuldatta5-tech/pputuldatta5-tech.github.io
-2. Upload/replace index.html and style.css.
-3. Upload the complete assets folder (with all five PNG files) to the repository root.
-4. Commit the changes. GitHub Pages will update the live site automatically.
+PREVIEW
+Open index.html in a web browser. Internet is needed for the Google Fonts import; the site itself works without a build step.
 
-BEFORE SHARING WITH RECRUITERS
-- Replace YOUR_EMAIL@example.com in index.html with the email address you want recruiters to use.
-- Confirm the Incoming Exchange Head tenure displayed in the experience section.
-- Check that the LinkedIn and GitHub links are correct.
+BEFORE PUBLISHING — PERSONALISE THESE ITEMS
+1. In index.html, replace YOUR_EMAIL@example.com with your real email address.
+2. Replace the LinkedIn and GitHub placeholder links with your real profile URLs.
+3. Check the wording of your experience and update any detail you want to refine.
 
-The portfolio currently presents one completed GTM workflow prototype. Other project cards and the research paper are explicitly labelled as planned/in development, not completed work. The workflow screenshots use fictional sample lead data and show Gmail draft creation only.
+FREE HOSTING
+You can publish this static site for free using GitHub Pages. No Java, paid hosting, or custom domain is required. The site uses plain HTML, CSS, and JavaScript, so there is no package installation or build process.
+
+PROJECT NOTE
+The GTM project is accurately described as a working prototype: Google Sheets lead data → n8n → AI-generated outreach copy → Gmail draft. It creates drafts only and does not automatically send emails. The portfolio does not expose credentials or sample lead contact details.
